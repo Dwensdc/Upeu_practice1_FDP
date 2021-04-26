@@ -1,4 +1,4 @@
-git a*.replit
+*.replit
 **/*
 !**/*.cpp
 !**/*.dart
