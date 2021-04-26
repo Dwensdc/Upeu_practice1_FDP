@@ -1,1 +1,8 @@
-
+git a*.replit
+**/*
+!**/*.cpp
+!**/*.dart
+!**/*.go
+!**/*.py
+!**/*.rb
+!**/*.scala
